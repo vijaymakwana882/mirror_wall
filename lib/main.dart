@@ -24,7 +24,7 @@ class _MirroWallState extends State<MirrorWall> {
       builder: (context, child) => MaterialApp(
         debugShowCheckedModeBanner: false,
         home: HomePage(
-          url: '',
+          url: 'https://www.google.com/search?q=',
         ),
       ),
     );
